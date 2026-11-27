@@ -1,0 +1,5 @@
+name: DanielSK
+version: 1.0.0
+author: Daniel
+depend: [Skript]
+main: kr.daniel.danielsk.DanielSK
